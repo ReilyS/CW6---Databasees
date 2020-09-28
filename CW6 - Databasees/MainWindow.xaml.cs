@@ -1,4 +1,11 @@
-﻿using System;
+﻿/* Author: Reily Stanford
+ * Date: 9/28/2020
+ * File: MainWindow.xaml.cs
+ * Description:
+ *  This program connects to a local MS Access database and has two buttons to display different tables of data.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Data.OleDb;
 using System.Linq;
